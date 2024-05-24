@@ -1,6 +1,8 @@
 # GPU Optimization Workshop (May 2024)
 Slides, notes, and materials for the workshop
 
+https://docs.google.com/document/d/1TR_5Ax0rPqTj8I2sA7MH-aa4J7TUUt4Ji9272OP8ZJg/edit
+
 - RSVP link: https://lu.ma/1wu5ppl5
 - Host: [@chiphuyen](https://github.com/chiphuyen)'s [Discord community](https://discord.gg/C8duCmvngk)
 - [YouTube's recording](https://www.youtube.com/watch?v=v_q2JTIqE20)
